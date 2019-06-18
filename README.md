@@ -29,7 +29,11 @@ Entire util functions and code for neural network is present in LVIAutomationUsi
 - [3] A. Attia and S. Dayan. Detection and segmentation of the Left Ventricle in Cardiac MRI using Deep Learning. 2017.
 
 
-
+## Developer Info
+- Manjunath C Bagewadi
+- Email : manjunathsept11@gmail.com
+- Ph: 9742896702
+- Linked In : linkedin.com/in/manjunath-bagewadi-9325ab55
 
 
 
